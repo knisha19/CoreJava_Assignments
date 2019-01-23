@@ -35,7 +35,7 @@ public class Calculator {
                     System.out.println("There is NO such operation! Please choose between the 4!");
                     break;
             }
-            
 	}
-}
+	}
+
 
